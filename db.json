@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Javier MM",
+      "empresa": "luisMasaquiza",
+      "email": "luisfmasaquiza@hotmail.com",
+      "telefono": "631594142",
+      "notas": "necesita producto",
+      "id": 1
+    },
+    {
+      "nombre": "Sary",
+      "empresa": "saycoral",
+      "email": "sarymasaquiza@hotmail.com",
+      "telefono": "632323444",
+      "notas": "desarrollo ",
+      "id": 2
+    },
+    {
+      "nombre": "JEANETH CRISTINA",
+      "empresa": "comdas",
+      "email": "chuglo@hotmail.com",
+      "telefono": "212323235434",
+      "notas": "distribuidor",
+      "id": 3
+    }
+  ]
+}
